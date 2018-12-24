@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPhotosWallpaper.UWP", "GPhotosWallpaper.UWP\GPhotosWallpaper.UWP.csproj", "{A9558A6C-90D0-44FC-B898-C0B692D2F446}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1EA5B796-F0FD-44B8-856C-B2399E39D0ED}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
